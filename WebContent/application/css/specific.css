@@ -1,0 +1,54 @@
+body {
+	background: url("../img/Fille6b.jpg");
+	font-family:Roboto;
+	font-size:16px;
+	width: 100%;
+	height: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+body.main-page {
+	background:none;
+}
+#newaccount {
+	display:none;
+}
+
+.navbar {
+	border-radius:0px;
+}
+
+.button {
+	font-size:14px;
+}
+
+#welcome-image {
+	background:none;
+}
+
+.list-page,
+.list-portfoliosgroups,
+.list-usersgroups,
+.list-users,
+.exec_report,
+.exec_batch{
+	background-color:white;
+}
+
+#table_users {
+	color:#636363;
+}
+
+#main-welcome .navbar-brand {
+	margin-top:-18px;
+}
+
+#navigation-bar .navbar-brand {
+	margin-top:-8px;
+}
+
+#bin {
+	padding:5px;
+	background-color:#008acc;;
+}
